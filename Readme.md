@@ -12,4 +12,4 @@
 ## Time Spent
 I spent 5 hours to complete this project
 ## Live Link
-Preview the project [Here]()
+Preview the project [Here](https://monstera-welcome.netlify.app/)
